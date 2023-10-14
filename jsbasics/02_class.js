@@ -8,4 +8,15 @@ console.log(3+3)
 //symbol to find the uniqueness
 console.log(typeof(2))
 console.log(typeof null)
-//null is object 
+//null is object
+ let x=undefined
+ console.log(typeof  Boolean(x))
+//  console.log(2+   2) 
+ let y=3 
+//  let z=5
+//  ++z;
+//  y++;
+const z=Symbol('3')
+ console.log((z))
+
+//  console.log(z)
